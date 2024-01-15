@@ -1,0 +1,9 @@
+$footer-color: hsl(0,0%,13%);
+$footer-inner-color: hsl(0,0%,9%);
+// $footer-text-color: hsl(113,33%,26%);
+$footer-text-color: #16a959;
+
+@import './reset';
+@import './wrappers';
+@import './nav';
+@import './infoCard';
